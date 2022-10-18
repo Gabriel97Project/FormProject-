@@ -51,7 +51,7 @@ no side bar do site */
   return (
     <Theme>
       <PageOneStyle>
-        <p>passo 1 de 3 </p>
+        <p>passo 1 de 4444aa </p>
         <h1>Vamos começar com seu nome.</h1>
         <p>preencha os campos abaixo com seu nome completo:</p>
         <hr/> 
